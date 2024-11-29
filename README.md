@@ -1,7 +1,15 @@
 # eBPF
 
-## Install Lima
+## Install App
 
-```sh
+### Install Lima
+
+```cmd
 brew install lima
+```
+
+### Install Qemu
+
+```cmd
+brew install qemu
 ```
